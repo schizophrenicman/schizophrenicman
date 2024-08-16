@@ -3,7 +3,7 @@
 
 
  Studying Computer Science at Tribhuvan University, Nepal <br>
- Interested in Digital Art, Graphics Designing
+ Interested in Digital Art, Graphics Designing, Web Develping.
 
 
 <h3 align="left">Languages and Tools:</h3>
